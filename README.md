@@ -23,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/atharvarajput4/Leetcode-Python/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/atharvarajput4/Leetcode-Python/tree/master/1603-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
