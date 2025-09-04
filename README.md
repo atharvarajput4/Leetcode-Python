@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -62,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/atharvarajput4/Leetcode-Python/tree/master/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
