@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0941-sort-array-by-parity](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0941-sort-array-by-parity) |
 | [1603-running-sum-of-1d-array](https://github.com/atharvarajput4/Leetcode-Python/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/atharvarajput4/Leetcode-Python/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atharvarajput4/Leetcode-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/atharvarajput4/Leetcode-Python/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
